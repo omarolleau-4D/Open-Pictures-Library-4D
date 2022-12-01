@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg833"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16">
+  <metadata
+     id="metadata839">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs837">
+    <rect
+       id="rect844"
+       height="19.2104"
+       width="18.469024"
+       y="0.065415667"
+       x="0.087220889" />
+    <rect
+       x="0.11802581"
+       y="0.37374841"
+       width="17.467821"
+       height="16.818678"
+       id="rect847" />
+  </defs>
+  <g
+     style="font-size:16px;line-height:1.25;font-family:sans-serif;shape-inside:url(#rect844)"
+     id="text842"
+     transform="matrix(1.237903,0,0,1.1831896,0.77325768,-2.9509974)"
+     aria-label="A">
+    <path
+       id="path869"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold'"
+       d="M 6.7441406,11.646113 H 3.0019531 l -0.4453125,1.03125 q -0.21875,0.515625 -0.21875,0.851563 0,0.445312 0.359375,0.65625 0.2109375,0.125 1.0390625,0.1875 v 0.289062 H 0.21289063 v -0.289062 q 0.57031249,-0.08594 0.93749997,-0.46875 0.3671875,-0.390625 0.90625,-1.601563 L 5.8457031,3.8492382 h 0.1484375 l 3.8203125,8.6874998 q 0.5468749,1.234375 0.8984379,1.554688 0.265625,0.242187 0.75,0.28125 v 0.289062 H 6.3378906 v -0.289062 h 0.2109375 q 0.6171875,0 0.8671875,-0.171875 0.171875,-0.125 0.171875,-0.359375 0,-0.140625 -0.046875,-0.289063 -0.015625,-0.07031 -0.234375,-0.585937 z m -0.265625,-0.578125 -1.578125,-3.6484373 -1.625,3.6484373 z" />
+  </g>
+</svg>

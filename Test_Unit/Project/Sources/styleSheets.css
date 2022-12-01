@@ -1,0 +1,66 @@
+﻿.ss_default{
+    font-family: "San Francisco","Segoe UI","Arial";
+    font-size: 13px;
+}
+
+.ss_title{
+    font-family: "San Francisco","Segoe UI","Arial";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.ss_bold{
+    font-family: "San Francisco","Segoe UI","Arial";
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.ss_label{
+    font-family: "San Francisco","Segoe UI","Arial";
+    font-size: 13px;
+    font-weight: bold;
+    text-align: right;
+}
+
+.ss_button{
+    font-family: "San Francisco","Segoe UI","Arial";
+    font-size: 12px;
+}
+
+.ss_password{
+    font-family: "%password";
+    font-size: 13px;
+}
+
+.ss_listbox_header{
+    font-family: "San Francisco","Segoe UI","Arial";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.ss_listbox{
+    font-family: "San Francisco","Segoe UI","Arial";
+    font-size: 12px;
+}
+
+.ss_unprop{
+    font-family: "Courrier";
+    font-size: 13px;
+}
+
+.ss_uuid{
+    font-family: "Courrier";
+    font-size: 13px;
+    color: red;
+}
+
+.ss_macros{
+    font-family: "San Francisco","Segoe UI","Arial";
+    font-size: 9px;
+    color: red;
+}
+
+.ss_path{
+    font-family: "San Francisco","Segoe UI","Arial";
+    font-size: 15px;
+}

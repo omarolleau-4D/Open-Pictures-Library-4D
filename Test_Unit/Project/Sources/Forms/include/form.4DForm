@@ -1,0 +1,103 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 1024,
+	"windowMinHeight": 130,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"events": [
+		"onLoad"
+	],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"b1": {
+					"type": "pictureButton",
+					"left": 21,
+					"top": 44,
+					"width": 64,
+					"height": 64,
+					"events": [
+						"onClick"
+					],
+					"class": "ss_button",
+					"borderStyle": "none",
+					"picture": "",
+					"rowCount": 4,
+					"switchWhenRollover": true,
+					"switchBackWhenReleased": true,
+					"useLastFrameAsDisabled": true,
+					"visibility": "visible"
+				},
+				"t1": {
+					"type": "text",
+					"text": "Button Theme",
+					"top": 15,
+					"left": 20,
+					"width": 304,
+					"height": 16,
+					"class": "ss_bold"
+				},
+				"n1": {
+					"type": "line",
+					"top": 121,
+					"left": 20,
+					"width": 70,
+					"height": 1,
+					"sizingX": "fixed",
+					"stroke": "#808080"
+				},
+				"bActivate": {
+					"type": "button",
+					"text": "Activate",
+					"top": 14,
+					"left": 984,
+					"width": 77,
+					"height": 19,
+					"events": [
+						"onClick"
+					],
+					"action": "",
+					"sizingX": "move",
+					"sizingY": "fixed",
+					"method": "ObjectMethods/bActivate.4dm"
+				},
+				"bInactivate": {
+					"type": "button",
+					"text": "Inactivate",
+					"top": 14,
+					"left": 884,
+					"width": 77,
+					"height": 19,
+					"events": [
+						"onClick"
+					],
+					"action": "",
+					"sizingX": "move",
+					"sizingY": "fixed",
+					"method": "ObjectMethods/bInactivate.4dm"
+				}
+			}
+		}
+	],
+	"geometryStamp": 156,
+	"method": "method.4dm",
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	}
+}
