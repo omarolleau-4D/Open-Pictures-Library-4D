@@ -9,6 +9,7 @@ Image resources for 4D development.
     - [Pixel](#pixel)
     - [System 5](#system-5)
     - [System 7](#system-7)
+    - [System 7 renew 4S](#system-7-renew-4s)
     - [System OSX 4S](#system-osx-4s)
     - [System XP 4S](#system-xp-4s)
     - [System XP renew 4S](#system-xp-renew-4s)
@@ -160,6 +161,35 @@ Old format of single-state image buttons.
 	<img src="/4D%20Buttons/System%207/DeleteRecord.png" alt="DeleteRecord" width="64">
 	<img src="/4D%20Buttons/System%207/LastRecord.png" alt="LastRecord" width="64">
 	<img src="/4D%20Buttons/System%207/PreviousPage.png" alt="PreviousPage" width="64">
+</p>
+
+### System 7 renew 4S
+
+Common format of four-state image buttons (normal, click, hover, inactive).
+
+<p float="left">
+	<img src="/4D%20Buttons/System%207%20renew/FirstRecord.svg" alt="FirstRecord" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Target.svg" alt="Target" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/ShowAll.svg" alt="ShowAll" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/LastPage.svg" alt="LastPage" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Cancel.svg" alt="Cancel" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/NextRecord.svg" alt="NextRecord" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Label.svg" alt="Label" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/PreviousRecord.svg" alt="PreviousRecord" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/OrderBy.svg" alt="OrderBy" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Update.svg" alt="Update" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/PreviousPage.svg" alt="PreviousPage" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/LastRecord.svg" alt="LastRecord" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Report.svg" alt="Report" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/DeleteRecord.svg" alt="DeleteRecord" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/FirstPage.svg" alt="FirstPage" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Query.svg" alt="Query" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Validate.svg" alt="Validate" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/ShowSubset.svg" alt="ShowSubset" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Done.svg" alt="Done" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/NextPage.svg" alt="NextPage" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Graph.svg" alt="Graph" width="64">
+	<img src="/4D%20Buttons/System%207%20renew/Print.svg" alt="Print" width="64">
 </p>
 
 ### System OSX 4S
