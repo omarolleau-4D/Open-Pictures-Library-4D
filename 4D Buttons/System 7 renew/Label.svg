@@ -8,8 +8,9 @@
 	.st2{fill:#FFFFFF;stroke:#A2A2A0;stroke-width:8;stroke-miterlimit:10;}
 	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:8;stroke-linejoin:round;}
 	.st4{fill:#F6A318;stroke:#1D1D1B;stroke-width:8;stroke-miterlimit:10;}
-	.st5{fill:#A2A19F;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
-	.st6{fill:#3BB2E6;stroke:#1D1D1B;stroke-width:8;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#A2A19F;stroke-width:8;stroke-miterlimit:10;}
+	.st6{fill:#A2A19F;}
+	.st7{fill:#3BB2E6;stroke:#1D1D1B;stroke-width:8;stroke-miterlimit:10;}
 </style>
 <rect x="10" y="10" class="st0" width="492" height="492"/>
 <g>
@@ -55,8 +56,8 @@
 <ellipse id="path819_00000026160879680959341980000005892508140137531580_" cx="165.9" cy="691.6" rx="18.4" ry="18.4"/>
 <path id="path817_00000158015972520847173440000008321697569821932677_" class="st5" d="M89,1642.6h142.3L423,1845.7l-130.9,129.7
 	L89,1775.7V1642.6z"/>
-<ellipse id="path819_00000061436979840730088010000012651686465780649359_" cx="165.9" cy="1712.6" rx="18.4" ry="18.4"/>
-<path id="path817_00000156551216844375770550000007219807078955880852_" class="st6" d="M89,1132.1h142.3L423,1335.2L292.2,1465
+<ellipse id="path819_00000061436979840730088010000012651686465780649359_" class="st6" cx="165.9" cy="1712.6" rx="18.4" ry="18.4"/>
+<path id="path817_00000156551216844375770550000007219807078955880852_" class="st7" d="M89,1132.1h142.3L423,1335.2L292.2,1465
 	L89,1265.2V1132.1z"/>
 <ellipse id="path819_00000132086701521677981990000009639803507582157230_" cx="165.9" cy="1202.1" rx="18.4" ry="18.4"/>
 </svg>

@@ -8,10 +8,11 @@
 	.st2{fill:#FFFFFF;stroke:#A2A2A0;stroke-width:8;stroke-miterlimit:10;}
 	.st3{fill:#FFFFFF;stroke:#1D1D1B;stroke-width:8;stroke-miterlimit:10;}
 	.st4{fill:#1D1D1B;stroke:#1D1D1B;stroke-width:4;stroke-miterlimit:10;}
-	.st5{fill:#FFFFFF;stroke:#1D1D1B;stroke-width:4;stroke-miterlimit:10;}
-	.st6{fill:#A2A19F;stroke:#1D1D1B;stroke-width:8;stroke-miterlimit:10;}
-	.st7{fill:#3BB2E6;stroke:#1D1D1B;stroke-width:8;stroke-miterlimit:10;}
-	.st8{fill:#F6A318;stroke:#1D1D1B;stroke-width:8;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#A2A19F;stroke-width:4;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#A2A19F;stroke-width:8;stroke-miterlimit:10;}
+	.st7{fill:#A2A19F;}
+	.st8{fill:#3BB2E6;stroke:#1D1D1B;stroke-width:8;stroke-miterlimit:10;}
+	.st9{fill:#F6A318;stroke:#1D1D1B;stroke-width:8;stroke-miterlimit:10;}
 </style>
 <rect x="12.2" y="10" class="st0" width="492" height="492"/>
 <g>
@@ -55,11 +56,11 @@
 <rect x="154" y="359.8" class="st4" width="199.5" height="29.9"/>
 <rect x="103.1" y="1786.5" class="st5" width="301.3" height="137.2"/>
 <rect x="154" y="1656.3" class="st6" width="199.5" height="155.3"/>
-<rect x="154" y="1893.8" class="st4" width="199.5" height="29.9"/>
+<rect x="154" y="1893.8" class="st7" width="199.5" height="29.9"/>
 <rect x="103.1" y="1278.5" class="st3" width="301.3" height="137.2"/>
-<rect x="154" y="1148.3" class="st7" width="199.5" height="155.3"/>
+<rect x="154" y="1148.3" class="st8" width="199.5" height="155.3"/>
 <rect x="154" y="1385.8" class="st4" width="199.5" height="29.9"/>
 <rect x="103.1" y="765.5" class="st3" width="301.3" height="137.2"/>
-<rect x="154" y="635.3" class="st8" width="199.5" height="155.3"/>
+<rect x="154" y="635.3" class="st9" width="199.5" height="155.3"/>
 <rect x="154" y="872.8" class="st4" width="199.5" height="29.9"/>
 </svg>
