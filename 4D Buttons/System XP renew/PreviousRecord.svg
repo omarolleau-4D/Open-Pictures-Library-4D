@@ -3,207 +3,207 @@
 <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 512 2048" style="enable-background:new 0 0 512 2048;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.5;fill:none;stroke:#949494;stroke-width:8;stroke-miterlimit:10;}
+	.st0{opacity:0.5;fill:none;stroke:#949494;stroke-width:8;stroke-miterlimit:10;enable-background:new    ;}
 	.st1{fill:url(#SVGID_1_);}
-	.st2{fill:url(#SVGID_00000067231280342866340570000007105162041779774853_);}
+	.st2{fill:url(#SVGID_00000162345401874586213530000003162598433063293340_);}
 	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st4{fill:none;stroke:#636363;stroke-width:8;stroke-miterlimit:10;}
-	.st5{fill:url(#SVGID_00000157990301561013263230000017187713365068263833_);stroke:#636363;stroke-width:8;stroke-miterlimit:10;}
-	.st6{fill:url(#SVGID_00000051360770805250498260000010136270316550838401_);stroke:#787878;stroke-width:4;stroke-miterlimit:10;}
-	.st7{fill:url(#SVGID_00000108274063922860516220000007636768079604111748_);stroke:#636363;stroke-width:8;stroke-miterlimit:10;}
-	.st8{opacity:0.5;fill:none;stroke:#A0A09F;stroke-width:8;stroke-miterlimit:10;}
-	.st9{fill:url(#SVGID_00000129191150757780908350000011606903439676755127_);}
-	.st10{fill:url(#SVGID_00000124147867208410372370000011516881711498122134_);}
+	.st5{fill:url(#SVGID_00000127021382545174543750000003897795695799618734_);stroke:#636363;stroke-width:8;stroke-miterlimit:10;}
+	.st6{fill:url(#SVGID_00000153669500277975421300000002196942076835139488_);stroke:#787878;stroke-width:4;stroke-miterlimit:10;}
+	.st7{fill:url(#SVGID_00000144316528302143191020000012288254695262038713_);stroke:#636363;stroke-width:8;stroke-miterlimit:10;}
+	.st8{opacity:0.5;fill:none;stroke:#A0A09F;stroke-width:8;stroke-miterlimit:10;enable-background:new    ;}
+	.st9{fill:url(#SVGID_00000016065403078192514640000011409002338022345631_);}
+	.st10{fill:url(#SVGID_00000137833458700037349090000000308596225185982628_);}
 	.st11{fill:none;stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
-	.st12{fill:url(#SVGID_00000112602953887024614470000015559926748656289171_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
-	.st13{fill:url(#SVGID_00000102527328284393019160000011425874603655150239_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;}
-	.st14{fill:url(#SVGID_00000135652423863831920080000009862064701611398079_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
-	.st15{fill:url(#SVGID_00000011714742582795624820000016451144773719194788_);}
-	.st16{fill:url(#SVGID_00000161604330857664181740000009944327543070281606_);}
-	.st17{fill:url(#SVGID_00000039840351547840111110000004382093134132210601_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
-	.st18{fill:url(#SVGID_00000103227451279056213660000005414594091105539490_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;}
-	.st19{fill:url(#SVGID_00000041269283082199221440000017292117885223452840_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
-	.st20{fill:url(#SVGID_00000018218095225183134790000009716825748291944358_);}
-	.st21{fill:url(#SVGID_00000022562875668759313380000016599525001299745666_);}
-	.st22{fill:url(#SVGID_00000007410312449306338780000000265192319639793059_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
-	.st23{fill:url(#SVGID_00000106120605263792213600000014431585597008937121_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
-	.st24{fill:url(#SVGID_00000085942504587420849060000014575171882075561349_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;}
-	.st25{fill:url(#SVGID_00000090294369707944795080000016655655618055046830_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
-	.st26{fill:url(#SVGID_00000103954164405226967080000017070749623746278072_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;}
-	.st27{fill:url(#SVGID_00000042018152423243254990000006430345207372413076_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;}
-	.st28{fill:url(#SVGID_00000181771010050955371040000013775815983790489256_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;}
-	.st29{fill:url(#SVGID_00000122719963220445592030000010774750138919528349_);stroke:#020203;stroke-width:8;stroke-miterlimit:10;}
+	.st12{fill:url(#SVGID_00000140698425423557974600000008860712714137680570_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
+	.st13{fill:url(#SVGID_00000140008608044389439070000014539543204071827871_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;}
+	.st14{fill:url(#SVGID_00000142854368104800626240000015765027201446156203_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
+	.st15{fill:url(#SVGID_00000114074154038805544730000009342448412916936352_);}
+	.st16{fill:url(#SVGID_00000078039317273399770370000000911504412212266146_);}
+	.st17{fill:url(#SVGID_00000160177243493684845930000009943123660651766710_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
+	.st18{fill:url(#SVGID_00000128464302132460896220000005078342581205490362_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;}
+	.st19{fill:url(#SVGID_00000114076018454334163110000012778947651034166673_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
+	.st20{fill:url(#SVGID_00000174568463608305480190000012029653660020897666_);}
+	.st21{fill:url(#SVGID_00000145770516361797408680000001427783194363168930_);}
+	.st22{fill:url(#SVGID_00000181769832258166128620000011115683290136886972_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
+	.st23{fill:url(#SVGID_00000152239697077141113410000010156197944694815138_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
+	.st24{fill:url(#SVGID_00000165217326561545056780000011851251044163643817_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;}
+	.st25{fill:url(#SVGID_00000005251571185486375370000004593470029589623740_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;}
+	.st26{fill:url(#SVGID_00000176024019185552738850000012126966429340738176_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;}
+	.st27{fill:url(#SVGID_00000107569759570216370780000002747069829425543848_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;}
+	.st28{fill:url(#SVGID_00000041262618777425891120000013977657555686921117_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;}
+	.st29{fill:url(#SVGID_00000077324961179831073980000013305585786459668360_);stroke:#020203;stroke-width:8;stroke-miterlimit:10;}
 </style>
 <polyline class="st0" points="26.63,1895.96 262.64,2008.01 490.41,1907.54 "/>
-<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="257.6929" y1="1733.285" x2="257.6929" y2="1907.5385">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="257.69" y1="314.71" x2="257.69" y2="140.46" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#949494"/>
 	<stop  offset="1" style="stop-color:#EBEBEB"/>
 </linearGradient>
 <polygon class="st1" points="28.04,1807.87 246.78,1733.29 487.34,1818.36 262.64,1907.54 "/>
-<linearGradient id="SVGID_00000176021477552307064220000017523093126858225577_" gradientUnits="userSpaceOnUse" x1="144.2103" y1="1807.2667" x2="144.2103" y2="2000.808">
+<linearGradient id="SVGID_00000083797670061516680270000001506825294127979409_" gradientUnits="userSpaceOnUse" x1="144.21" y1="240.73" x2="144.21" y2="47.1899" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#949494"/>
 	<stop  offset="1" style="stop-color:#EBEBEB"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000176021477552307064220000017523093126858225577_);" points="26.63,1807.27 261.79,1907.1 
+<polygon style="fill:url(#SVGID_00000083797670061516680270000001506825294127979409_);" points="26.63,1807.27 261.79,1907.1 
 	261.79,2000.81 26.63,1890.5 "/>
 <path class="st3" d="M366.71,1991.99"/>
 <polygon class="st4" points="26.63,1890.5 26.63,1807.27 245.94,1736.59 487.34,1818.36 484.39,1898.42 261.79,2000.81 "/>
-<linearGradient id="SVGID_00000073721376284575333230000003839242741944719257_" gradientUnits="userSpaceOnUse" x1="262.6376" y1="1909.6842" x2="487.344" y2="1909.6842">
+<linearGradient id="SVGID_00000018204364340683138000000004341500001129161377_" gradientUnits="userSpaceOnUse" x1="262.64" y1="138.315" x2="487.35" y2="138.315" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#999999"/>
 	<stop  offset="1" style="stop-color:#6A6A6A"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000073721376284575333230000003839242741944719257_);stroke:#636363;stroke-width:8;stroke-miterlimit:10;" d="
+<path style="fill:url(#SVGID_00000018204364340683138000000004341500001129161377_);stroke:#636363;stroke-width:8;stroke-miterlimit:10;" d="
 	M262.64,1997.51c0-1.98,0-89.97,0-89.97l224.71-85.68l-2.95,82.37L262.64,1997.51z"/>
 <polyline class="st4" points="219.23,1982.7 219.24,1889.54 448.37,1806.51 "/>
-<linearGradient id="SVGID_00000034793459848586282200000004132341802853849490_" gradientUnits="userSpaceOnUse" x1="281.935" y1="1907.5385" x2="460.9442" y2="1907.5385">
+<linearGradient id="SVGID_00000003822261327043021850000008815278643508704641_" gradientUnits="userSpaceOnUse" x1="281.94" y1="140.46" x2="460.94" y2="140.46" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#A5A5A5"/>
 	<stop  offset="1" style="stop-color:#D9D9D9"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000034793459848586282200000004132341802853849490_);stroke:#787878;stroke-width:4;stroke-miterlimit:10;" points="
+<polygon style="fill:url(#SVGID_00000003822261327043021850000008815278643508704641_);stroke:#787878;stroke-width:4;stroke-miterlimit:10;" points="
 	281.94,1926.69 460.94,1857.34 460.2,1883.12 281.94,1957.74 "/>
-<linearGradient id="SVGID_00000078767820680264518270000009212990627939821209_" gradientUnits="userSpaceOnUse" x1="176.7604" y1="1831.9814" x2="409.095" y2="1831.9814">
+<linearGradient id="SVGID_00000015327853266469359540000012126707695853829553_" gradientUnits="userSpaceOnUse" x1="176.76" y1="216.02" x2="409.1" y2="216.02" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#EFEFEF"/>
 	<stop  offset="1" style="stop-color:#C5C5C5"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000078767820680264518270000009212990627939821209_);stroke:#636363;stroke-width:8;stroke-miterlimit:10;" points="
+<polygon style="fill:url(#SVGID_00000015327853266469359540000012126707695853829553_);stroke:#636363;stroke-width:8;stroke-miterlimit:10;" points="
 	176.76,1840.31 320.56,1789.75 409.1,1819.53 261.79,1874.21 "/>
 <polyline class="st8" points="26.63,1384.96 262.64,1497.01 490.41,1396.54 "/>
-<linearGradient id="SVGID_00000123431628526123864140000013208484410974222220_" gradientUnits="userSpaceOnUse" x1="257.6929" y1="1222.285" x2="257.6929" y2="1396.5385">
+<linearGradient id="SVGID_00000022549334110854093970000009585666131240342917_" gradientUnits="userSpaceOnUse" x1="257.69" y1="825.71" x2="257.69" y2="651.46" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#8F8FBC"/>
 	<stop  offset="1" style="stop-color:#EAEAE7"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000123431628526123864140000013208484410974222220_);" points="28.04,1296.87 246.78,1222.29 
+<polygon style="fill:url(#SVGID_00000022549334110854093970000009585666131240342917_);" points="28.04,1296.87 246.78,1222.29 
 	487.34,1307.36 262.64,1396.54 "/>
-<linearGradient id="SVGID_00000032650523824083217390000007331593945096150403_" gradientUnits="userSpaceOnUse" x1="144.2103" y1="1296.2667" x2="144.2103" y2="1489.808">
+<linearGradient id="SVGID_00000049205004252593125920000013421911457723492796_" gradientUnits="userSpaceOnUse" x1="144.21" y1="751.73" x2="144.21" y2="558.1899" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#8F8FBC"/>
 	<stop  offset="1" style="stop-color:#EAEAE7"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000032650523824083217390000007331593945096150403_);" points="26.63,1296.27 261.79,1396.1 
+<polygon style="fill:url(#SVGID_00000049205004252593125920000013421911457723492796_);" points="26.63,1296.27 261.79,1396.1 
 	261.79,1489.81 26.63,1379.5 "/>
 <path class="st3" d="M366.71,1480.99"/>
 <polygon class="st11" points="26.63,1379.5 26.63,1296.27 245.94,1225.59 487.34,1307.36 484.39,1387.42 261.79,1489.81 "/>
-<linearGradient id="SVGID_00000039828653389621984990000000713048302602915007_" gradientUnits="userSpaceOnUse" x1="262.6376" y1="1398.6842" x2="487.344" y2="1398.6842">
+<linearGradient id="SVGID_00000078747587652311069600000002344420729584474281_" gradientUnits="userSpaceOnUse" x1="262.64" y1="649.315" x2="487.35" y2="649.315" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#A4A4A1"/>
 	<stop  offset="1" style="stop-color:#7E7E8F"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000039828653389621984990000000713048302602915007_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" d="
+<path style="fill:url(#SVGID_00000078747587652311069600000002344420729584474281_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" d="
 	M262.64,1486.51c0-1.98,0-89.97,0-89.97l224.71-85.68l-2.95,82.37L262.64,1486.51z"/>
 <polyline class="st11" points="219.23,1471.7 219.24,1378.54 448.37,1295.51 "/>
-<linearGradient id="SVGID_00000128449653568988723890000004229370298504052129_" gradientUnits="userSpaceOnUse" x1="281.935" y1="1396.5385" x2="460.9442" y2="1396.5385">
+<linearGradient id="SVGID_00000097482249455119453480000009166055937906940076_" gradientUnits="userSpaceOnUse" x1="281.94" y1="651.46" x2="460.94" y2="651.46" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#51A656"/>
 	<stop  offset="1" style="stop-color:#C4D9BE"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000128449653568988723890000004229370298504052129_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;" points="
+<polygon style="fill:url(#SVGID_00000097482249455119453480000009166055937906940076_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;" points="
 	281.94,1415.69 460.94,1346.34 460.2,1372.12 281.94,1446.74 "/>
-<linearGradient id="SVGID_00000021090206577760134580000013784092836262630583_" gradientUnits="userSpaceOnUse" x1="176.7604" y1="1320.9814" x2="409.095" y2="1320.9814">
+<linearGradient id="SVGID_00000012448297758316929320000018249281680651770243_" gradientUnits="userSpaceOnUse" x1="176.76" y1="727.02" x2="409.1" y2="727.02" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#DFEEF3"/>
 	<stop  offset="1" style="stop-color:#77BFD5"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000021090206577760134580000013784092836262630583_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" points="
+<polygon style="fill:url(#SVGID_00000012448297758316929320000018249281680651770243_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" points="
 	176.76,1329.31 320.56,1278.75 409.1,1308.53 261.79,1363.21 "/>
-<polyline class="st8" points="26.63,872.63 262.64,984.68 490.41,884.21 "/>
-<linearGradient id="SVGID_00000018208778184235390590000006343917152349481633_" gradientUnits="userSpaceOnUse" x1="257.6929" y1="709.9542" x2="257.6929" y2="884.2076">
+<polyline class="st8" points="36.63,882.63 272.64,994.68 500.41,894.21 "/>
+<linearGradient id="SVGID_00000026863408098264702190000018300983224145806722_" gradientUnits="userSpaceOnUse" x1="267.69" y1="1328.05" x2="267.69" y2="1153.79" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#8F8FBC"/>
 	<stop  offset="1" style="stop-color:#EAEAE7"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000018208778184235390590000006343917152349481633_);" points="28.04,784.53 246.78,709.95 
-	487.34,795.03 262.64,884.21 "/>
-<linearGradient id="SVGID_00000126306024261585492510000001968129212311801224_" gradientUnits="userSpaceOnUse" x1="144.2103" y1="783.9358" x2="144.2103" y2="977.4771">
+<polygon style="fill:url(#SVGID_00000026863408098264702190000018300983224145806722_);" points="38.04,794.53 256.78,719.95 
+	497.34,805.03 272.64,894.21 "/>
+<linearGradient id="SVGID_00000034777523360137688860000001704150808856533421_" gradientUnits="userSpaceOnUse" x1="154.21" y1="1254.0601" x2="154.21" y2="1060.52" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#8F8FBC"/>
 	<stop  offset="1" style="stop-color:#EAEAE7"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000126306024261585492510000001968129212311801224_);" points="26.63,783.94 261.79,883.77 
-	261.79,977.48 26.63,867.17 "/>
+<polygon style="fill:url(#SVGID_00000034777523360137688860000001704150808856533421_);" points="36.63,793.94 271.79,893.77 
+	271.79,987.48 36.63,877.17 "/>
 <path class="st3" d="M366.71,968.65"/>
-<polygon class="st11" points="26.63,867.17 26.63,783.94 245.94,713.26 487.34,795.03 484.39,875.09 261.79,977.48 "/>
-<linearGradient id="SVGID_00000167354831451136273350000007544500846521793188_" gradientUnits="userSpaceOnUse" x1="262.6376" y1="886.3533" x2="487.344" y2="886.3533">
+<polygon class="st11" points="36.63,877.17 36.63,793.94 255.94,723.26 497.34,805.03 494.39,885.09 271.79,987.48 "/>
+<linearGradient id="SVGID_00000085251003892514583450000006386355036587222182_" gradientUnits="userSpaceOnUse" x1="272.64" y1="1151.655" x2="497.35" y2="1151.655" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#A4A4A1"/>
 	<stop  offset="1" style="stop-color:#7E7E8F"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000167354831451136273350000007544500846521793188_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" d="
-	M262.64,974.17c0-1.98,0-89.97,0-89.97l224.71-85.68l-2.95,82.37L262.64,974.17z"/>
-<polyline class="st11" points="219.23,959.37 219.24,866.21 448.37,783.17 "/>
-<linearGradient id="SVGID_00000155111239257635322820000015024663117552254619_" gradientUnits="userSpaceOnUse" x1="281.935" y1="884.2076" x2="460.9442" y2="884.2076">
+<path style="fill:url(#SVGID_00000085251003892514583450000006386355036587222182_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" d="
+	M272.64,984.17c0-1.98,0-89.97,0-89.97l224.71-85.68l-2.95,82.37L272.64,984.17z"/>
+<polyline class="st11" points="229.23,969.37 229.24,876.21 458.37,793.17 "/>
+<linearGradient id="SVGID_00000016775541652650880960000000708690188984097423_" gradientUnits="userSpaceOnUse" x1="291.94" y1="1153.79" x2="470.94" y2="1153.79" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#51A656"/>
 	<stop  offset="1" style="stop-color:#C4D9BE"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000155111239257635322820000015024663117552254619_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;" points="
-	281.94,903.36 460.94,834.01 460.2,859.78 281.94,934.41 "/>
-<linearGradient id="SVGID_00000009552063744698322480000002715214846207552950_" gradientUnits="userSpaceOnUse" x1="176.7604" y1="808.6506" x2="409.095" y2="808.6506">
+<polygon style="fill:url(#SVGID_00000016775541652650880960000000708690188984097423_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;" points="
+	291.94,913.36 470.94,844.01 470.2,869.78 291.94,944.41 "/>
+<linearGradient id="SVGID_00000179624689816072245470000015455159295910144179_" gradientUnits="userSpaceOnUse" x1="186.76" y1="1229.35" x2="419.1" y2="1229.35" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#DFEEF3"/>
 	<stop  offset="1" style="stop-color:#77BFD5"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000009552063744698322480000002715214846207552950_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" points="
-	176.76,816.98 320.56,766.42 409.1,796.2 261.79,850.88 "/>
+<polygon style="fill:url(#SVGID_00000179624689816072245470000015455159295910144179_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" points="
+	186.76,826.98 330.56,776.42 419.1,806.2 271.79,860.88 "/>
 <polyline class="st8" points="26.63,360.96 262.64,473.01 490.41,372.54 "/>
-<linearGradient id="SVGID_00000003808593836294482920000003655276880326327461_" gradientUnits="userSpaceOnUse" x1="257.6929" y1="198.285" x2="257.6929" y2="372.5384">
+<linearGradient id="SVGID_00000146477150613653372170000013336165070785293697_" gradientUnits="userSpaceOnUse" x1="257.69" y1="1849.71" x2="257.69" y2="1675.46" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#8F8FBC"/>
 	<stop  offset="1" style="stop-color:#EAEAE7"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000003808593836294482920000003655276880326327461_);" points="28.04,272.87 246.78,198.29 
+<polygon style="fill:url(#SVGID_00000146477150613653372170000013336165070785293697_);" points="28.04,272.87 246.78,198.29 
 	487.34,283.36 262.64,372.54 "/>
-<linearGradient id="SVGID_00000101802350971800034760000011936551579388060581_" gradientUnits="userSpaceOnUse" x1="144.2103" y1="272.2667" x2="144.2103" y2="465.808">
+<linearGradient id="SVGID_00000110432944811952342480000012084840983213472690_" gradientUnits="userSpaceOnUse" x1="144.21" y1="1775.73" x2="144.21" y2="1582.1899" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#8F8FBC"/>
 	<stop  offset="1" style="stop-color:#EAEAE7"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000101802350971800034760000011936551579388060581_);" points="26.63,272.27 261.79,372.1 
+<polygon style="fill:url(#SVGID_00000110432944811952342480000012084840983213472690_);" points="26.63,272.27 261.79,372.1 
 	261.79,465.81 26.63,355.5 "/>
 <path class="st3" d="M366.71,456.99"/>
 <polygon class="st11" points="26.63,355.5 26.63,272.27 245.94,201.59 487.34,283.36 484.39,363.42 261.79,465.81 "/>
-<linearGradient id="SVGID_00000093167964582685778690000015753855710346122890_" gradientUnits="userSpaceOnUse" x1="262.6376" y1="374.6842" x2="487.344" y2="374.6842">
+<linearGradient id="SVGID_00000129926313223780628510000016542557785749010851_" gradientUnits="userSpaceOnUse" x1="262.64" y1="1673.3149" x2="487.35" y2="1673.3149" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#A4A4A1"/>
 	<stop  offset="1" style="stop-color:#7E7E8F"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000093167964582685778690000015753855710346122890_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" d="
+<path style="fill:url(#SVGID_00000129926313223780628510000016542557785749010851_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" d="
 	M262.64,462.51c0-1.98,0-89.97,0-89.97l224.71-85.68l-2.95,82.37L262.64,462.51z"/>
 <polyline class="st11" points="219.23,447.7 219.24,354.54 448.37,271.51 "/>
-<linearGradient id="SVGID_00000026136169311358832040000009148453744012351360_" gradientUnits="userSpaceOnUse" x1="256" y1="-37.0183" x2="256" y2="-37.0183">
+<linearGradient id="SVGID_00000165946457706330033880000003317684907502139795_" gradientUnits="userSpaceOnUse" x1="256" y1="2085.02" x2="256" y2="2085.02" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#A4A4A1"/>
 	<stop  offset="1" style="stop-color:#7E7E8F"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000026136169311358832040000009148453744012351360_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" d="
+<path style="fill:url(#SVGID_00000165946457706330033880000003317684907502139795_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" d="
 	M256-37.02"/>
-<linearGradient id="SVGID_00000033344518220285595490000006571766265084797343_" gradientUnits="userSpaceOnUse" x1="281.935" y1="372.5384" x2="460.9442" y2="372.5384">
+<linearGradient id="SVGID_00000086688609591412111090000012914771172853048754_" gradientUnits="userSpaceOnUse" x1="281.94" y1="1675.46" x2="460.94" y2="1675.46" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#51A656"/>
 	<stop  offset="1" style="stop-color:#C4D9BE"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000033344518220285595490000006571766265084797343_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;" points="
+<polygon style="fill:url(#SVGID_00000086688609591412111090000012914771172853048754_);stroke:#448A4F;stroke-width:4;stroke-miterlimit:10;" points="
 	281.94,391.69 460.94,322.34 460.2,348.12 281.94,422.74 "/>
-<linearGradient id="SVGID_00000116921656043141376820000017316600939161531275_" gradientUnits="userSpaceOnUse" x1="176.7604" y1="296.9814" x2="409.095" y2="296.9814">
+<linearGradient id="SVGID_00000134249049540033825150000014085678642874740364_" gradientUnits="userSpaceOnUse" x1="176.76" y1="1751.02" x2="409.1" y2="1751.02" gradientTransform="matrix(1 0 0 -1 0 2048)">
 	<stop  offset="0" style="stop-color:#DFEEF3"/>
 	<stop  offset="1" style="stop-color:#77BFD5"/>
 </linearGradient>
-<polygon style="fill:url(#SVGID_00000116921656043141376820000017316600939161531275_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" points="
+<polygon style="fill:url(#SVGID_00000134249049540033825150000014085678642874740364_);stroke:#82827F;stroke-width:8;stroke-miterlimit:10;" points="
 	176.76,305.31 320.56,254.75 409.1,284.53 261.79,339.21 "/>
-<linearGradient id="SVGID_00000020360368723354849110000018333272599108145798_" gradientUnits="userSpaceOnUse" x1="457.3683" y1="2002.2693" x2="457.3683" y2="1798.2401" gradientTransform="matrix(-1 0 0 -1 717.4683 2050)">
+<linearGradient id="SVGID_00000023968066699855783480000015651963949709810345_" gradientUnits="userSpaceOnUse" x1="-52.6334" y1="-1234.2693" x2="-52.6334" y2="-1030.2401" gradientTransform="matrix(-1 0 0 1 207.4683 1282)">
 	<stop  offset="0" style="stop-color:#BCDAAC"/>
 	<stop  offset="1" style="stop-color:#44AC37"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000020360368723354849110000018333272599108145798_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;" d="
+<path style="fill:url(#SVGID_00000023968066699855783480000015651963949709810345_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;" d="
 	M300.55,52.38l-120.21,80.24c-4.4,2.94-4.85,9.24-0.91,12.77l110.92,99.33c11.23,10.06,28.46,9.24,38.69-1.83l4.37-4.74
 	c10.82-11.71,9.5-30.12-2.88-40.16l-61.9-50.24c-4.39-3.56-3.87-10.41,1-13.27l60.2-35.33c13.51-7.93,17.72-25.5,9.28-38.69l0,0
 	C330.79,47.44,313.4,43.8,300.55,52.38z"/>
-<linearGradient id="SVGID_00000104706028443620064770000003693697262569331647_" gradientUnits="userSpaceOnUse" x1="457.3683" y1="1490.2693" x2="457.3683" y2="1286.2401" gradientTransform="matrix(-1 0 0 -1 717.4683 2050)">
+<linearGradient id="SVGID_00000158025840573136240250000002605793128248030644_" gradientUnits="userSpaceOnUse" x1="-62.6334" y1="-712.2693" x2="-62.6334" y2="-508.2401" gradientTransform="matrix(-1 0 0 1 207.4683 1282)">
 	<stop  offset="0" style="stop-color:#FFDD08"/>
 	<stop  offset="1" style="stop-color:#F7A81E"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000104706028443620064770000003693697262569331647_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;" d="
-	M300.55,564.38l-120.21,80.24c-4.4,2.94-4.85,9.24-0.91,12.77l110.92,99.33c11.23,10.06,28.46,9.24,38.69-1.83l4.37-4.74
+<path style="fill:url(#SVGID_00000158025840573136240250000002605793128248030644_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;" d="
+	M310.55,574.38l-120.21,80.24c-4.4,2.94-4.85,9.24-0.91,12.77l110.92,99.33c11.23,10.06,28.46,9.24,38.69-1.83l4.37-4.74
 	c10.82-11.71,9.5-30.12-2.88-40.16l-61.9-50.24c-4.39-3.56-3.87-10.41,1-13.27l60.2-35.33c13.51-7.93,17.72-25.5,9.28-38.69l0,0
-	C330.79,559.44,313.4,555.8,300.55,564.38z"/>
-<linearGradient id="SVGID_00000110451976689885630200000005967007559216936121_" gradientUnits="userSpaceOnUse" x1="457.3683" y1="978.2692" x2="457.3683" y2="774.2401" gradientTransform="matrix(-1 0 0 -1 717.4683 2050)">
+	C340.79,569.44,323.4,565.8,310.55,574.38z"/>
+<linearGradient id="SVGID_00000051354036771629198030000018298425883524400266_" gradientUnits="userSpaceOnUse" x1="-52.6334" y1="-210.2693" x2="-52.6334" y2="-6.2401" gradientTransform="matrix(-1 0 0 1 207.4683 1282)">
 	<stop  offset="0" style="stop-color:#AED2EE"/>
 	<stop  offset="1" style="stop-color:#3CB2E6"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000110451976689885630200000005967007559216936121_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;" d="
+<path style="fill:url(#SVGID_00000051354036771629198030000018298425883524400266_);stroke:#030304;stroke-width:8;stroke-miterlimit:10;" d="
 	M300.55,1076.38l-120.21,80.24c-4.4,2.94-4.85,9.24-0.91,12.77l110.92,99.33c11.23,10.06,28.46,9.24,38.69-1.83l4.37-4.74
 	c10.82-11.71,9.5-30.12-2.88-40.16l-61.9-50.24c-4.39-3.56-3.87-10.41,1-13.27l60.2-35.33c13.51-7.93,17.72-25.5,9.28-38.69l0,0
 	C330.79,1071.44,313.4,1067.8,300.55,1076.38z"/>
-<linearGradient id="SVGID_00000115472990667145459430000003148772967589807774_" gradientUnits="userSpaceOnUse" x1="457.3683" y1="466.2697" x2="457.3683" y2="262.2401" gradientTransform="matrix(-1 0 0 -1 717.4683 2050)">
+<linearGradient id="SVGID_00000127753615960472125760000014081506203972582804_" gradientUnits="userSpaceOnUse" x1="-52.6317" y1="301.7303" x2="-52.6317" y2="505.7599" gradientTransform="matrix(-1 0 0 1 207.4683 1282)">
 	<stop  offset="0" style="stop-color:#DADADA"/>
 	<stop  offset="1" style="stop-color:#A9A9AA"/>
 </linearGradient>
-<path style="fill:url(#SVGID_00000115472990667145459430000003148772967589807774_);stroke:#020203;stroke-width:8;stroke-miterlimit:10;" d="
+<path style="fill:url(#SVGID_00000127753615960472125760000014081506203972582804_);stroke:#020203;stroke-width:8;stroke-miterlimit:10;" d="
 	M299.95,1588.38l-118.19,78.9c-5.42,3.62-5.97,11.38-1.12,15.73l109.12,97.71c11.23,10.06,28.46,9.24,38.69-1.83l4.37-4.74
 	c10.82-11.71,9.5-30.12-2.88-40.16l-59.8-48.54c-5.41-4.39-4.77-12.82,1.24-16.35l57.86-33.96c13.51-7.93,17.72-25.5,9.28-38.69l0,0
 	C330.19,1583.44,312.8,1579.8,299.95,1588.38z"/>

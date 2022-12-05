@@ -23,7 +23,9 @@
 			"items": [
 				{
 					"title": "Test",
-					"method": "main"
+					"method": "main",
+					"shortcutAccel": true,
+					"shortcutKey": "r"
 				},
 				{
 					"title": ":xliff:xCommonMenuItemPreferences",

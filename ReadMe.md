@@ -221,6 +221,35 @@ Common format of four-state image buttons (normal, click, hover, inactive).
 	<img src="/4D%20Buttons/System%20OSX/PreviousPage.png" alt="PreviousPage" width="64">
 </p>
 
+### System OSX renew 4S
+
+Common format of four-state image buttons (normal, click, hover, inactive).
+
+<p float="left">
+	<img src="/4D%20Buttons/System%20OSX%20renew/QueryInSelection.svg" alt="QueryInSelection" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/OrderBy.svg" alt="OrderBy" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/PreviousRecord.svg" alt="PreviousRecord" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/Label.svg" alt="Label" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/NextRecord.svg" alt="NextRecord" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/Cancel.svg" alt="Cancel" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/LastPage.svg" alt="LastPage" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/ShowAll.svg" alt="ShowAll" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/FirstRecord.svg" alt="FirstRecord" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/Print.svg" alt="Print" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/Graph.svg" alt="Graph" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/NextPage.svg" alt="NextPage" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/Done.svg" alt="Done" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/ShowSubset.svg" alt="ShowSubset" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/Validate.svg" alt="Validate" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/Query.svg" alt="Query" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/FirstPage.svg" alt="FirstPage" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/NewRecord.svg" alt="NewRecord" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/DeleteRecord.svg" alt="DeleteRecord" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/LastRecord.svg" alt="LastRecord" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/Report.svg" alt="Report" width="64">
+	<img src="/4D%20Buttons/System%20OSX%20renew/PreviousPage.svg" alt="PreviousPage" width="64">
+</p>
+
 ### System XP 4S
 
 Common format of four-state image buttons (normal, click, hover, inactive).
