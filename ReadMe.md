@@ -3,6 +3,7 @@
 Image resources for 4D development.
 
   - [4D Buttons](#4d-buttons)
+    - [Arcade 4S](#arcade-4s)
     - [Bulle](#bulled)
     - [Classic](#classic)
     - [Draw](#draw)
@@ -13,7 +14,7 @@ Image resources for 4D development.
     - [System OSX 4S](#system-osx-4s)
     - [System XP 4S](#system-xp-4s)
     - [System XP renew 4S](#system-xp-renew-4s)
-    - [Light grey](#light-grey)
+    - [Light grey 4S](#light-grey-4S)
     - [Light grey renew 4S](#light-grey-renew-4s)
   - [4D Icons](#4d-icons)
     - [Internal Types](#internal-types)
@@ -22,6 +23,20 @@ Image resources for 4D development.
     - [Banner](#banner)
 
 ## 4D Buttons
+
+### Arcade 4S
+
+Common format of four-state image buttons (normal, click, hover, inactive).
+
+<p float="left">
+	<img src="/4D%20Buttons/Arcade/FirstRecord.svg" alt="FirstRecord" width="64">
+	<img src="/4D%20Buttons/Arcade/NextRecord.svg" alt="NextRecord" width="64">
+	<img src="/4D%20Buttons/Arcade/PreviousRecord.svg" alt="PreviousRecord" width="64">
+	<img src="/4D%20Buttons/Arcade/LastRecord.svg" alt="LastRecord" width="64">
+	<img src="/4D%20Buttons/Arcade/DeleteRecord.svg" alt="DeleteRecord" width="64">
+	<img src="/4D%20Buttons/Arcade/NewRecord.svg" alt="NewRecord" width="64">
+	<img src="/4D%20Buttons/Arcade/Done.svg" alt="Done" width="64">
+</p>
 
 ### Bulle
 
@@ -307,7 +322,7 @@ Common format of four-state image buttons (normal, click, hover, inactive).
 	<img src="/4D%20Buttons/System%20XP%20renew/Print.svg" alt="Print" width="64">
 </p>
 
-### Light grey
+### Light grey 4S
 
 Common format of four-state image buttons (normal, click, hover, inactive).
 

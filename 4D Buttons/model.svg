@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 2048" style="enable-background:new 0 0 512 2048;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#F39200;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#F39200;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:12.1951,12.1951;}
+</style>
+<g>
+	<g>
+		<polyline class="st0" points="512,506 512,512 506,512 		"/>
+		<line class="st1" x1="493.8" y1="512" x2="12.1" y2="512"/>
+		<polyline class="st0" points="6,512 0,512 0,506 		"/>
+		<line class="st1" x1="0" y1="493.8" x2="0" y2="12.1"/>
+		<polyline class="st0" points="0,6 0,0 6,0 		"/>
+		<line class="st1" x1="18.2" y1="0" x2="499.9" y2="0"/>
+		<polyline class="st0" points="506,0 512,0 512,6 		"/>
+		<line class="st1" x1="512" y1="18.2" x2="512" y2="499.9"/>
+	</g>
+</g>
+</svg>
