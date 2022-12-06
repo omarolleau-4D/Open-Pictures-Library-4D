@@ -41,7 +41,7 @@ If (ok=1)
 		
 	End for 
 	
-	SET TEXT TO PASTEBOARD:C523("<p float=\"left\">\n"+$result+"</p>")
+	SET TEXT TO PASTEBOARD:C523("<p float=\"left\">\n"+$result+"\t<span style=\"font-size:64px; font-weight:bold;\">⸳⸳⸳</span>\n</p>")
 	
 	ALERT:C41("the end !")
 	
