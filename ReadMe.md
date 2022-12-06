@@ -35,11 +35,11 @@
     - [System 7](#system-7)
 	- [Western](#western)
 
-### 4D Divers
+## 4D Divers
 
-#### 4D Icons
+### 4D Icons
 
-##### Internal Types
+#### Internal Types
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Icons of internal data types, each file name corresponds to the internal numeric code of the type.
 <p float="left">
@@ -49,7 +49,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### List
+### List
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Specific icons for lists and menus (16x16)
 <p float="left">
@@ -59,9 +59,9 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-##### 4D Logos
+#### 4D Logos
 
-##### Banner
+#### Banner
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Banner list.
 <p float="left">
@@ -70,9 +70,9 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-### 4D Buttons curent
+## 4D Buttons curent
 
-#### Arcade
+### Arcade
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Common format of four-state image buttons (normal, click, hover, inactive).
 <p float="left">
@@ -82,7 +82,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### Light grey
+### Light grey
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Common format of four-state image buttons (normal, click, hover, inactive).
 <p float="left">
@@ -92,7 +92,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### Light grey renew
+### Light grey renew
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Common format of four-state image buttons (normal, click, hover, inactive).
 <p float="left">
@@ -102,7 +102,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### System 7 renew
+### System 7 renew
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Common format of four-state image buttons (normal, click, hover, inactive).
 <p float="left">
@@ -112,7 +112,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### System OSX
+### System OSX
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Common format of four-state image buttons (normal, click, hover, inactive).
 <p float="left">
@@ -122,7 +122,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### System OSX renew
+### System OSX renew
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Common format of four-state image buttons (normal, click, hover, inactive).
 <p float="left">
@@ -132,7 +132,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### System XP
+### System XP
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Common format of four-state image buttons (normal, click, hover, inactive).
 <p float="left">
@@ -142,7 +142,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### System XP renew
+### System XP renew
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Common format of four-state image buttons (normal, click, hover, inactive).
 <p float="left">
@@ -153,9 +153,9 @@
 </p>
 
 
-### 4D Buttons history
+## 4D Buttons history
 
-#### Bulle
+### Bulle
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Old format of single-state image buttons.
 <p float="left">
@@ -165,7 +165,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### Classic
+### Classic
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Old format of single-state image buttons.
 <p float="left">
@@ -175,7 +175,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### Draw
+### Draw
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Old format of single-state image buttons.
 <p float="left">
@@ -185,7 +185,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### Philadelphia Blue
+### Philadelphia Blue
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Old format of single-state image buttons.
 <p float="left">
@@ -195,7 +195,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### Philadelphia Green
+### Philadelphia Green
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Old format of single-state image buttons.
 <p float="left">
@@ -205,7 +205,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### Pixel
+### Pixel
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Old format of single-state image buttons.
 <p float="left">
@@ -215,7 +215,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### System 5
+### System 5
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Old format of single-state image buttons.
 <p float="left">
@@ -225,7 +225,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### System 7
+### System 7
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Old format of single-state image buttons.
 <p float="left">
@@ -235,7 +235,7 @@
 	<span style="font-size:64px; font-weight:bold;">⸳⸳⸳</span>
 </p>
 
-#### Western
+### Western
 
 <a href="#anchor-toc" style="font-size: 40px;">⬆</a> Old format of single-state image buttons.
 <p float="left">
