@@ -2,7 +2,7 @@
 
 <div id="anchor-toc">Image resources for 4D development.</div>
 
-## 4D Divers
+## Divers
 
   - [4D Divers](#4d-divers)
 	- [4D Icons](#4d-icons)
@@ -11,7 +11,7 @@
 	- [4D Logos](#4d-logos)
 		- [Banner](#banner)
 
-## 4D Buttons curent
+## Buttons curent
 
   - [4D Buttons curent](#4d-buttons-curent)
     - [Arcade](#arcade)
@@ -23,7 +23,7 @@
     - [System XP](#system-xp)
     - [System XP renew](#system-xp-renew)
 
-## 4D Buttons history
+## Buttons history
 
   - [4D Buttons history](#4d-buttons-history)
     - [Bulle](#bulled)
