@@ -31,10 +31,10 @@ Case of
 		
 	: ($option.act="create")
 		
-		$left:=(Screen width:C187-1280)/2
-		$top:=(Screen height:C188-1024)/2
-		$right:=$left+1280
-		$bottom:=$top+1024
+		$left:=80
+		$top:=80
+		$right:=Screen width:C187*0.9
+		$bottom:=Screen height:C188*0.9
 		
 		$win:=Open window:C153($left; $top; $right; $bottom; Fenêtre standard:K34:13; "main")
 		DIALOG:C40("main"; *)
