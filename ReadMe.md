@@ -166,7 +166,6 @@
 	<img src="/4D%20Buttons/Bulle/Cancel.png" alt="Cancel" width="64">
 	<img src="/4D%20Buttons/Bulle/DeleteRecord.png" alt="DeleteRecord" width="64">
 	<img src="/4D%20Buttons/Bulle/Validate.png" alt="Validate" width="64">
-	System%20OSX%20renew
 	<span style="font-size:64px; font-weight:bold;">...</span>
 </p>
 
