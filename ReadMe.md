@@ -100,6 +100,7 @@
 	<img src="/4D%20Buttons/Light%20grey%20renew/Cancel.svg" alt="Cancel" width="64">
 	<img src="/4D%20Buttons/Light%20grey%20renew/DeleteRecord.svg" alt="DeleteRecord" width="64">
 	<img src="/4D%20Buttons/Light%20grey%20renew/Validate.svg" alt="Validate" width="64">
+	<img src="/4D%20Buttons/Light%20grey%20renew/SyncExport.svg" alt="SyncExport" width="64">
 	<span style="font-size:64px; font-weight:bold;">...</span>
 </p>
 
