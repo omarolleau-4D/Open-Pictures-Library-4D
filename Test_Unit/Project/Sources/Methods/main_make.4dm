@@ -43,6 +43,8 @@ FOLDER LIST:C473($buttonFolder; $_folder)
 SORT ARRAY:C229($_folder; >)
 For ($indextheme; 1; Size of array:C274($_folder))
 	
+	//Si ((($_folder{$indextheme}="Arcade") | ($_folder{$indextheme}="Light grey renew") | ($_folder{$indextheme}="System 7 renew") | ($_folder{$indextheme}="System OSX renew") | ($_folder{$indextheme}="System XP renew"))
+	
 	//loop on button
 	
 	ARRAY TEXT:C222($_file; 0)
@@ -98,5 +100,7 @@ For ($indextheme; 1; Size of array:C274($_folder))
 	OBJECT MOVE:C664(*; $objNameLineNew; 0; 0; $maxLine-($right-$left)+70; 0)
 	
 	$objNameLine:=$objNameLineNew
+	
+	//Fin de si 
 	
 End for 

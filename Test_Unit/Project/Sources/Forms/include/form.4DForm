@@ -71,7 +71,8 @@
 					"action": "",
 					"sizingX": "move",
 					"sizingY": "fixed",
-					"method": "ObjectMethods/bActivate.4dm"
+					"method": "ObjectMethods/bActivate.4dm",
+					"visibility": "hidden"
 				},
 				"bInactivate": {
 					"type": "button",
@@ -86,12 +87,13 @@
 					"action": "",
 					"sizingX": "move",
 					"sizingY": "fixed",
-					"method": "ObjectMethods/bInactivate.4dm"
+					"method": "ObjectMethods/bInactivate.4dm",
+					"visibility": "hidden"
 				}
 			}
 		}
 	],
-	"geometryStamp": 156,
+	"geometryStamp": 158,
 	"method": "method.4dm",
 	"editor": {
 		"activeView": "View 1",
