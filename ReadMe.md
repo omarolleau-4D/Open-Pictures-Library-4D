@@ -1,5 +1,5 @@
 # Pictures Library 4D
-
+---
 <div id="anchor-toc">Image resources for 4D development.</div>
 
 ## Divers
@@ -36,6 +36,7 @@
 	- [Western](#western)
 
 ## 4D Divers
+---
 
 ### 4D Icons
 
@@ -71,6 +72,7 @@
 </p>
 
 ## 4D Buttons curent
+---
 
 ### Arcade
 
@@ -159,6 +161,7 @@
 
 
 ## 4D Buttons history
+---
 
 ### Bulle
 
