@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M436.3,428h-370V53.8c0-20.3,16.5-36.8,36.8-36.8h293.8c21.8,0,39.4,17.6,39.4,39.4V428z"/>
+<rect x="87.3" y="430.5" class="st0" width="328" height="57"/>
+<line class="st1" x1="298.5" y1="351.5" x2="390.5" y2="351.5"/>
+<line class="st1" x1="111.5" y1="367.5" x2="147" y2="367.5"/>
+<line class="st1" x1="190.5" y1="118" x2="190.5" y2="148.5"/>
+<line class="st1" x1="295.5" y1="118" x2="295.5" y2="148.5"/>
+<polyline class="st2" points="201.5,214 218.5,233 274.5,233 291.6,213.3 "/>
+<polyline class="st2" points="229.5,187.5 252,187.5 252,118 "/>
+<rect x="112.8" y="67.5" class="st2" width="277" height="212"/>
+</svg>
