@@ -30,6 +30,7 @@
 	<stop  offset="0" style="stop-color:#5F6C7C"/>
 	<stop  offset="1" style="stop-color:#D7D6D9"/>
 </linearGradient>
+
 <circle class="st0" cx="256" cy="256" r="244.6"/>
 <linearGradient id="SVGID_00000168802824289592429570000015995091785386507917_" gradientUnits="userSpaceOnUse" x1="363.6073" y1="69.6187" x2="148.3927" y2="442.3813">
 	<stop  offset="1.078831e-03" style="stop-color:#333F4F"/>
